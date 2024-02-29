@@ -1,6 +1,6 @@
 {
     "name": "@nodescript/object-trim",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Trims down a large object for preview",
     "type": "module",
     "sideEffects": false,
